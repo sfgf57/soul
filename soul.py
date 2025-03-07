@@ -4,7 +4,7 @@ from telegram import Update, Chat
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # Replace with your bot token
-TELEGRAM_BOT_TOKEN = '7918812381:AAFaar5qOBbuW5W9MAIwTtJKcwFopPo1z9k'
+TELEGRAM_BOT_TOKEN = '7763302446:AAG35PcNxXhZaqz2mqhMLXFZLv5x1XUR1qs'
 
 # Predefined list of authorized group IDs (replace these with actual group IDs)
 AUTHORIZED_GROUPS = {-1002234966753, -1002234966753}  # Add your group IDs here
